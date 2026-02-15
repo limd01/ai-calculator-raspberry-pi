@@ -36,4 +36,4 @@ Work in progress. This repository documents the build and development process.
 ## Build Photos
 
 ### Day 1 – Parts Arrival
-![Parts](docs/photos/image.jpg)
+![Parts](docs/photos)
